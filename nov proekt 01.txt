@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+add new text
+=======
+kude si 
+>>>>>>> ebe7b2e2581329add991894c549f9160841463b5
